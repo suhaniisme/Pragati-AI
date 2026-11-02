@@ -4,20 +4,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-* [About The Project](#-about-the-project)
-* [Core Features & Capabilities](#-core-features--capabilities)
-* [Complete Tech Stack](#-complete-tech-stack)
-* [Project Architecture & Directory Structure](#-project-architecture--directory-structure)
-* [Getting Started & Installation](#-getting-started--installation)
-* [Configuration & API Setup](#-configuration--api-setup)
-* [Usage Guide](#-usage-guide)
-* [Future Roadmap](#-future-roadmap)
-* [Contributing](#-contributing)
-* [License](#-license)
-
----
 
 ## 🎯 About The Project
 
