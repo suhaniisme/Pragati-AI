@@ -23,7 +23,7 @@
 
 Small local retail merchants ("Kirana stores") process dozens of paper receipts, manual invoices, and daily transactions every day. Manual entry leads to human error, missed records, and lost administrative hours.
 
-** Pragati AI** bridges this gap by combining optical character recognition (OCR), intelligent document cropping, local language processing, and automated communication tools into a simple, non-technical dashboard. Merchants can upload physical receipt images, instantly extract structured line items, organize sales data, and send digital summary receipts directly to customers via email.
+***Pragati AI** bridges this gap by combining optical character recognition (OCR), intelligent document cropping, local language processing, and automated communication tools into a simple, non-technical dashboard. Merchants can upload physical receipt images, instantly extract structured line items, organize sales data, and send digital summary receipts directly to customers via email.
 
 ---
 
